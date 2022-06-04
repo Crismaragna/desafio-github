@@ -15,3 +15,7 @@ body{
     display: flex;
     justify-content: center;
 }
+.img{
+    justify-items:center;
+}
+
