@@ -6,5 +6,12 @@
 }
 body{
     background-image: linear-gradient(to right, darkcyan, cyan, darkcyan );
-    
+}
+
+.lorem{
+    font-size: medium;
+}
+.carousel{
+    display: flex;
+    justify-content: center;
 }
